@@ -2,6 +2,8 @@
 
 Patches the GIANTS "Farming Simulator IDE Support" VS Code extension to work on Linux and sets up the matching VS Code settings.
 
+<img width="1155" height="896" alt="image" src="https://github.com/user-attachments/assets/d360fb15-d5f5-4bad-9971-d01df68404cc" />
+
 ## Why
 
 The official GIANTS VS Code extension ships its Lua language server only as a Windows `.exe`. On Linux, this breaks Lua IntelliSense, diagnostics and stub generation. This script makes the extension work on Linux. It was tested on Kubuntu with Steam/Proton and Bottles.
